@@ -5,7 +5,9 @@ Boilerplate for a project using Electron, React, Typescript and SQLite.
 - Initiate this app using boilerplate from electron-forge
 `https://www.electronforge.io/templates/typescript-+-webpack-template`
 
-- Using better-sqlite3 due to branchmark result and total user's download this package `https://www.npmjs.com/package/better-sqlite3`
+## Prerequisite
+
+1. Node v22
 
 ## Installation
 
